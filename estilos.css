@@ -1,0 +1,27 @@
+
+
+.TituloPrinc{
+    font-family: 'Times New Roman', Times, serif;
+    color: azure;
+}
+
+.blog{
+    background-image: url(casets.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+
+}
+
+.cuadroPrinc{
+    border: 7px solid grey;
+    width: 50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    color: beige;
+}
