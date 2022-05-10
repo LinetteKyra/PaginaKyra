@@ -1,0 +1,98 @@
+
+
+.TituloPrinc{
+    font-family: Blacklisted;
+    color: rgb(0, 0, 0);
+}
+
+.blog{
+    background-image: url(fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+
+}
+
+.cuadroPrinc{
+    border: 7px;
+    width: 50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.redesociales{
+    background-color: rgb(136, 148, 153);      
+    height: 50px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.menu{ 
+    background: linear-gradient( rgb(150, 109, 84), rgb(224, 183, 157) );
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.menu_logotipo{
+    height: 60px;
+}
+
+.menu__lista{
+    display: flex;
+    list-style: none;
+    font-size: 20px;
+    
+}
+
+.menu__lista__elemento{
+    margin-left: 40px;
+}
+
+.redesociales__logo{
+    height: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.menu_lista_link{
+    text-decoration:none;
+     color: #000;
+}
+.menu_lista_link:hover{
+    color: rgb(117, 243, 201);
+}
+
+.footer{
+    background: linear-gradient( rgb(224, 183, 157), rgb(150, 109, 84));
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.ParteDerecha{
+    border: 7px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    
+}
+
+.ParteDerecha__img{
+    width: 40%;
+}
+
+.ParteDerecha__texto{
+    width: 40%;
+}
+
+
